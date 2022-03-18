@@ -39,5 +39,11 @@
     <ClCompile Include="07_IsA Inheritance.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="08_HasA Inheritance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="09_HasACompsite.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
